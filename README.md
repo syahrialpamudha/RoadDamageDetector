@@ -1,6 +1,5 @@
 # RoadDamageDetector
-
-********
+📁 Dokumentasi UML tersedia di folder `docs/uml`
 
 # News
 [2025-01-25]: **ORDDC'2024 - Summary**: The IEEE Big Data Cup, Optimized Road Damage Detection Challenge (ORDDC'2024) culminated successfully. Check out the ORDDC article summarizing details of winners and proposed solutions [here](https://www.researchgate.net/publication/388092879_ORDDC'2024_State_of_the_art_Solutions_for_Optimized_Road_Damage_Detection)!
